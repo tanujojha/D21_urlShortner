@@ -8,13 +8,11 @@ body{
 
 .main{
     height: 100vh;
-    /* padding-top: 10%; */
 }
 
 .headingdiv{
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
     margin-top: 20px;
 }
@@ -28,6 +26,7 @@ body{
 .descrip{
     color: white;
     margin-top: 20px;
+    text-align: center;
 }
 
 .topdiv{
@@ -62,7 +61,6 @@ body{
 .codehtml{
     color: white;
     font-size: 30px;
-    /* width: 100px; */
 }
 
 .codeurl{
